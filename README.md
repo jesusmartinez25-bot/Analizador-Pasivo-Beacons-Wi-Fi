@@ -17,13 +17,18 @@ El sistema permite detectar redes cercanas y evaluar su nivel de seguridad sin n
 🚀 FUNCIONALIDADES PRINCIPALES
 
 📶 Escucha las señales Beacon emitidas por los puntos de acceso
+
 🏷️ Identifica el SSID (nombre de la red)
+
 🔐 Detecta el tipo de cifrado utilizado
+
 🔎 Reconoce WEP
 🔎 Reconoce WPA
 🔎 Reconoce WPA2
 🔎 Reconoce WPA3
+
 📊 Evalúa el nivel de seguridad de cada red detectada
+
 🛡️ Permite identificar redes vulnerables o mal configuradas
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -35,15 +40,21 @@ Los Beacons son paquetes de gestión que los puntos de acceso envían periódica
 Estos paquetes contienen información como:
 
 📡 Nombre de la red (SSID)
+
 🔐 Capacidades de seguridad
+
 📶 Canal utilizado
+
 🛠️ Tipo de cifrado soportado
 
 OWISAM-CP analiza estos paquetes sin interactuar con la red, lo que garantiza:
 
 ✔️ No intrusivo
+
 ✔️ No altera el tráfico
+
 ✔️ No requiere autenticación
+
 ✔️ No realiza ataques
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
