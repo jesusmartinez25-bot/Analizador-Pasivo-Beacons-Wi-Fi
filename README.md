@@ -23,8 +23,11 @@ El sistema permite detectar redes cercanas y evaluar su nivel de seguridad sin n
 🔐 Detecta el tipo de cifrado utilizado
 
 🔎 Reconoce WEP
+
 🔎 Reconoce WPA
+
 🔎 Reconoce WPA2
+
 🔎 Reconoce WPA3
 
 📊 Evalúa el nivel de seguridad de cada red detectada
@@ -62,9 +65,13 @@ OWISAM-CP analiza estos paquetes sin interactuar con la red, lo que garantiza:
 🔎 CLASIFICACIÓN DE SEGURIDAD
 
 🔴 Red abierta → Muy baja seguridad
+
 🔴 WEP → Obsoleto y vulnerable
+
 🟠 WPA → Seguridad intermedia
+
 🟢 WPA2 → Seguridad alta
+
 🟢 WPA3 → Seguridad recomendada
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -80,7 +87,9 @@ No realiza interceptación de datos privados ni acceso no autorizado a redes.
 👨‍💻 Autores
 
 Iván Batista
+
 Fernando Manuel Ávila
+
 Jesús Martínez
 
 Proyecto académico – Cifrado de Comunicaciones
