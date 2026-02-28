@@ -92,6 +92,8 @@ Fernando Manuel Ávila
 
 Jesús Martínez
 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 Proyecto académico – Cifrado de Comunicaciones
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
